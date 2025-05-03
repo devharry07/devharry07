@@ -47,6 +47,8 @@ I also design user interfaces that combine aesthetics and usability
 
 ## 🧠 Top Skills
 
+<img src="https://i.postimg.cc/NF7v9DCX/starlit-window.gif" alt="Let's Connect Aesthetic" style="width: 100%; border-radius: 8px;" />
+
 | Language  | Frameworks              | Blockchain                | Concepts                      | Tools                          |
 |-----------|--------------------------|----------------------------|-------------------------------|-------------------------------|
 | 🦀 Rust   | ⚙️ Substrate, Actix, Rocket | 🌐 EVM, XCM, Layer 0/1     | 🧠 Consensus, Tokenomics, ESG | 🛠️ Polkadot.js, Remix, Hardhat |
