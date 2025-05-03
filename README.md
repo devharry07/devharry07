@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-I'm Harry, a passionate Web3 and Blockchain Developer currently working at **[Nadcab Technology](https://www.nadcab.com/)**.  
+I'm Harry, a passionate Web3 and Blockchain Developer currently working at **[Nadcab Labs](https://www.nadcab.com/)**.  
 With 3+ years of experience, I specialize in building elegant, responsive, and high-performing frontends using **React.js** and **Web3 tools**.  
 I also design user interfaces that combine aesthetics and usability
 
