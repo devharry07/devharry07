@@ -57,4 +57,5 @@ I also design user interfaces that combine aesthetics and usability
 
 
 ## 📫 Let's Connect
-- [Email](mailto:devharry.ui@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:devharry.ui@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/devharry07)
