@@ -47,30 +47,14 @@ I also design user interfaces that combine aesthetics and usability
 
 ## 🧠 Top Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meenal&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+| Language  | Frameworks              | Blockchain                | Concepts                      | Tools                          |
+|-----------|--------------------------|----------------------------|-------------------------------|-------------------------------|
+| 🦀 Rust   | ⚙️ Substrate, Actix, Rocket | 🌐 EVM, XCM, Layer 0/1     | 🧠 Consensus, Tokenomics, ESG | 🛠️ Polkadot.js, Remix, Hardhat |
+| 💠 Solidity | 🧱 Frontier, Web3        | 🔗 Bridges, NFTs, Interoperability | 🔐 Crypto Signatures         | 🧰 Git, Docker, VS Code        |
+
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meenal&show_icons=true&theme=tokyonight" alt="Meenal's GitHub stats" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Meenal&theme=tokyonight" alt="Meenal's GitHub streak" />
-</p>
-
----
 
 ## 📫 Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/YOURUSERNAME)
-- [Portfolio](https://YOURPORTFOLIO.com)
-- [Email](mailto:YOURMAIL@example.com)
+- [Email](mailto:devharry.ui@gmail.com)
