@@ -60,8 +60,11 @@ I also design user interfaces that combine aesthetics and usability
 
 ## 📫 Let's Connect
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw22Kojxt9dEqp6Q-XxKxtDr&ust=1746349385417000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjlrcz4ho0DFQAAAAAdAAAAABAK" height="70%" alt="Nightlife blockchain gif" data-canonical-src="https://i.postimg.cc/HsLrpD07/nightlife-1.gif"/>  
+
+
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:devharry.ui@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/devharry07) 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw22Kojxt9dEqp6Q-XxKxtDr&ust=1746349385417000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjlrcz4ho0DFQAAAAAdAAAAABAK" height="70%" alt="Nightlife blockchain gif" data-canonical-src="https://i.postimg.cc/HsLrpD07/nightlife-1.gif" style="max-width: 100%; display: inline-block; text-align:center;" data-target="animated-image.originalImage"/>
+
 
