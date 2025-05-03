@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm harry 👋</h1>
+<p align="center">Web Developer | React.js | Web3 | UI Designer | Freelancer</p>
 
-<!--
-**devharry07/devharry07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Harry, a passionate Web3 and Blockchain Developer currently working at **[Nadcab Technology](https://www.nadcab.com/)**.  
+With 3+ years of experience, I specialize in building elegant, responsive, and high-performing frontends using **React.js** and **Web3 tools**.  
+I also design user interfaces that combine aesthetics and usability
+
+
+### 💻 Tech Stack
+- **Languages**: JavaScript, HTML, CSS, Markdown
+- **Frontend**: React.js, Tailwind CSS, Framer Motion
+- **Web3**: Ethers.js, Web3.js
+- **Tools**: Git, GitHub, Firebase
+- **Design**: Figma, Adobe XD
+
+---
+
+## 🚀 Featured Projects
+
+### 💼 Freelance Dashboard (2024)
+- Built a custom dashboard for managing Web3 clients and invoices  
+- Integrated Ethers.js for wallet-based authentication  
+- Mobile-first responsive design with Tailwind CSS  
+✨ _Streamlined freelance workflows and polished UX_
+
+---
+
+### 🌐 Crypto Portfolio Tracker (2023)
+- React.js app with CoinGecko API for real-time asset tracking  
+- Chart.js integration for visualizing performance  
+- Connected Web3 wallets for dynamic portfolio sync  
+✨ _A user-friendly tracker for crypto investors_
+
+---
+
+### 🎨 Portfolio Website (2022)
+- Personal site built with React + Framer Motion  
+- Resume-inspired layout with scroll animations  
+- Hosted on GitHub Pages  
+✨ _Doubled client inquiries with a standout digital presence_
+
+---
+
+## 🧠 Top Skills
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meenal&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meenal&show_icons=true&theme=tokyonight" alt="Meenal's GitHub stats" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Meenal&theme=tokyonight" alt="Meenal's GitHub streak" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/YOURUSERNAME)
+- [Portfolio](https://YOURPORTFOLIO.com)
+- [Email](mailto:YOURMAIL@example.com)
