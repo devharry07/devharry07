@@ -59,7 +59,9 @@ I also design user interfaces that combine aesthetics and usability
 
 
 ## 📫 Let's Connect
-<img src="https://camo.githubusercontent.com/01d8c99be1d7aac6c37256c5cdb223e4af9d142fd440b67639f232473e9503a7/68747470733a2f2f692e706f7374696d672e63632f48734c72704430372f6e696768746c6966652d312e676966" height="70%" alt="Nightlife blockchain gif" data-canonical-src="https://i.postimg.cc/HsLrpD07/nightlife-1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/>
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:devharry.ui@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/devharry07)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/devharry07) 
+
+<img src="https://camo.githubusercontent.com/01d8c99be1d7aac6c37256c5cdb223e4af9d142fd440b67639f232473e9503a7/68747470733a2f2f692e706f7374696d672e63632f48734c72704430372f6e696768746c6966652d312e676966" height="70%" alt="Nightlife blockchain gif" data-canonical-src="https://i.postimg.cc/HsLrpD07/nightlife-1.gif" style="max-width: 100%; display: inline-block; text-align:center;" data-target="animated-image.originalImage"/>
+
